@@ -1,0 +1,15 @@
+C:\Users\CHIZZY STANLEOVIC\ReadTextFile\obj\Debug\net7.0\ReadTextFile.csproj.AssemblyReference.cache
+C:\Users\CHIZZY STANLEOVIC\ReadTextFile\obj\Debug\net7.0\ReadTextFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHIZZY STANLEOVIC\ReadTextFile\obj\Debug\net7.0\ReadTextFile.AssemblyInfoInputs.cache
+C:\Users\CHIZZY STANLEOVIC\ReadTextFile\obj\Debug\net7.0\ReadTextFile.AssemblyInfo.cs
+C:\Users\CHIZZY STANLEOVIC\ReadTextFile\obj\Debug\net7.0\ReadTextFile.csproj.CoreCompileInputs.cache
+C:\Users\CHIZZY STANLEOVIC\ReadTextFile\bin\Debug\net7.0\ReadTextFile.exe
+C:\Users\CHIZZY STANLEOVIC\ReadTextFile\bin\Debug\net7.0\ReadTextFile.deps.json
+C:\Users\CHIZZY STANLEOVIC\ReadTextFile\bin\Debug\net7.0\ReadTextFile.runtimeconfig.json
+C:\Users\CHIZZY STANLEOVIC\ReadTextFile\bin\Debug\net7.0\ReadTextFile.dll
+C:\Users\CHIZZY STANLEOVIC\ReadTextFile\bin\Debug\net7.0\ReadTextFile.pdb
+C:\Users\CHIZZY STANLEOVIC\ReadTextFile\obj\Debug\net7.0\ReadTextFile.dll
+C:\Users\CHIZZY STANLEOVIC\ReadTextFile\obj\Debug\net7.0\refint\ReadTextFile.dll
+C:\Users\CHIZZY STANLEOVIC\ReadTextFile\obj\Debug\net7.0\ReadTextFile.pdb
+C:\Users\CHIZZY STANLEOVIC\ReadTextFile\obj\Debug\net7.0\ReadTextFile.genruntimeconfig.cache
+C:\Users\CHIZZY STANLEOVIC\ReadTextFile\obj\Debug\net7.0\ref\ReadTextFile.dll
