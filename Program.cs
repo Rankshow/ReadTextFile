@@ -6,13 +6,15 @@ class Program
 {
     static void Main(string[] args)
     {
+        Int64 x;
         try
         {
-            StreamWriter sw = new StreamWriter(@"C:\Data\Programmers.txt");
-            
-            sw.WriteLine("- using System.Net");
-            sw.WriteLine("- using System.Collection");
+            StreamWriter sw = new StreamWriter(@"C:\Data\Services");
 
+            for(x = 0; x < 10; x++)
+            {
+                sw.Write(x);
+            }
             sw.Close();
         }
         catch(Exception e)
@@ -21,7 +23,7 @@ class Program
         }
         finally
         {
-            Console.WriteLine("Successful, Execution we no longer continue");
+            Console.WriteLine("Exexution finally block...");
         }
     }
 }
