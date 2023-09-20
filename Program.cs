@@ -6,27 +6,22 @@ class Program
 {
     static void Main(string[] args)
     {
-        String line;
         try
         {
-          StreamReader sr = new StreamReader(@"C:\Data\Programmers.txt");
-          line = sr.ReadLine();
-          
-          while(line != null)
-          {
-            Console.WriteLine(line);
-            line = sr.ReadLine();
-          }
-          sr.Close();
-          Console.WriteLine(line);
+            StreamWriter sw = new StreamWriter(@"C:\Data\Programmers.txt");
+            
+            sw.WriteLine("- using System.Net");
+            sw.WriteLine("- using System.Collection");
+
+            sw.Close();
         }
         catch(Exception e)
         {
-            Console.WriteLine("Sorry!! we  :" + e.Message);
+            Console.WriteLine("Please Enter a correct path because we :" + e.Message);
         }
         finally
         {
-            Console.WriteLine("Thanks, at this moment we have to executing the code");
+            Console.WriteLine("Successful, Execution we no longer continue");
         }
     }
 }
