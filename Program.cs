@@ -9,7 +9,7 @@ class Program
         Int64 x;
         try
         {
-            StreamWriter sw = new StreamWriter(@"C:\Data\Services");
+            StreamWriter sw = new StreamWriter(@"C:\Data\Services.txt");
 
             for(x = 0; x < 10; x++)
             {
